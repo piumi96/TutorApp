@@ -1,0 +1,22 @@
+{
+  "name": "tutor",
+  "version": "1.0.0",
+  "description": "simple tutor app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buddhikac96/TutorApp.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buddhikac96/TutorApp/issues"
+  },
+  "homepage": "https://github.com/buddhikac96/TutorApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
